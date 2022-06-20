@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Calculadora financeira 12c Gold Hp",
+        "price": 269.9,
+        "qtde": 14,
+        "date": "01/05/2022"
+    },
+    {
+        "id": 2,
+        "name": "Lapiseira",
+        "price": 5.9,
+        "qtde": 13,
+        "date": "02/05/2022"
+    },
+    {
+        "id": 3,
+        "name": "Papel sufite",
+        "price": 69.9,
+        "qtde": 10,
+        "date": "01/05/2022"
+    },
+    {
+        "id": 4,
+        "name": "Monitor LED 50x50",
+        "price": 300.0,
+        "qtde": 4,
+        "date": "01/05/2022"
+    },
+    {
+        "id": 5,
+        "name": "Gaveta de madeira",
+        "price": 200.9,
+        "qtde": 4,
+        "date": "01/05/2022"
+    },
+    {
+        "id": 6,
+        "name": "Lapiseira",
+        "price": 279.9,
+        "qtde": 15,
+        "date": "01/05/2022"
+    },
+    {
+        "id": 7,
+        "name": "Calculadora financeira 12c Gold Hp",
+        "price": 269.9,
+        "qtde": 14,
+        "date": "01/05/2022"
+    },
+    {
+        "id": 8,
+        "name": "Laptop lenovo",
+        "price": 3499.99,
+        "qtde": 1,
+        "date": "06/05/2022"
+    }
+]
